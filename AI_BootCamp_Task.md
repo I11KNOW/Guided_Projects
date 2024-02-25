@@ -1,4 +1,4 @@
-# IEEE Linear Regression
+# Predicting students' performance using Linear Regression "IEEE"
 
 Welcome to my first machine-learning project! This project is a simple tutorial aimed at beginners in machine learning, where we use linear regression to predict the performance of a sample of students based on various factors.
 
@@ -15,7 +15,7 @@ Dataset: We'll use a small synthetic dataset containing information about studen
 
 Objective: Our goal is to build a linear regression model that can predict the number of study hours a student needs based on the given features.
 
-Tools: We'll be using Python programming language along with popular libraries such as NumPy, pandas, and scikit-learn for data manipulation, analysis, and model building.
+Tools: We'll be using Python programming language along with popular libraries such as NumPy, pandas, and sci-kit-learn for data manipulation, analysis, and model building.
 
 ## Project Structure.
 
