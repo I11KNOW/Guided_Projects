@@ -24,13 +24,13 @@ Documentation: Detailed documentation for each project, including setup instruct
 # Installation
 To run these guided machine-learning projects on your local machine, follow these steps:
 
-# 1)Clone the repository:
+# 1) Clone the repository:
 
-git clone https://github.com/your_username/guided-machine-learning-projects.git
+git clone https://github.com/I11KNOW/Guided_ML_Projects.git
 
 Navigate to the project directory of your choice.
 
-# 2)Install the required dependencies:
+# 2) Install the required dependencies:
 
 pip install -r requirements.txt
 
