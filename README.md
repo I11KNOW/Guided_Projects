@@ -23,7 +23,7 @@ Documentation: Detailed documentation for each project, including setup instruct
 
 # Usage
 
-Follow the instructions provided in the project READ MY README.md to get started with each project.
+Just change between the different directories so you can see tasks done by each algorithm.
 
 # Contributing
 Contributions to this guided machine learning projects repository are welcome! 
