@@ -1,35 +1,50 @@
-# My Guided Machine Learning Projects
-Welcome to my guided machine learning projects repository! 
+# Financial Data Web Scraping Project
 
-This repository houses a collection of guided machine-learning projects that I have developed guided by great instructors I appreciate. 
+Welcome to the Financial Data Web Scraping project! This project, guided by IBM, focuses on analyzing historical stock financial data using web scraping techniques. 
 
-Guided machine learning simplifies the process of building and deploying machine learning models by leveraging pre-built models, libraries, and frameworks.
+In this project, we'll explore how to extract, clean, and analyze financial data from various sources on the web, with examples focusing on Tesla (TSLA) and GameStop Corp (GME) stocks.
 
-# Introduction
-In this repository, you'll find a variety of guided machine-learning projects covering different domains and use cases.
+## Introduction
 
-These projects showcase the application of guided machine-learning techniques and provide practical examples for learning and experimentation.
+Web scraping is a powerful technique used to extract data from websites and is commonly employed in various domains, including finance. 
 
-This repository is a comprehensive guide for beginners to advanced users looking to leverage guided machine-learning techniques in their projects.
+In this project, we'll leverage web scraping to collect historical stock price data for Tesla and GameStop Corp from publicly available sources.
 
-# Features
-Project Demos: Real-world guided machine learning projects with detailed explanations and code.
+## Guided by IBM
 
-Tutorials: Step-by-step guides to help you understand and implement guided machine-learning techniques.
+This project was guided by IBM, providing valuable insights and guidance throughout the development process. 
 
-Code Snippets: Reusable code snippets for common tasks in guided machine learning workflows.
+Their expertise and support have been instrumental in shaping the project's direction and ensuring its success.
 
-Documentation: Detailed documentation for each project, including setup instructions and usage guidelines.
+## Project Overview
 
-# Usage
+- **Data Source:** We'll scrape historical stock price data from a popular financial website (e.g., Yahoo Finance).
 
-Just change between the different directories so you can see tasks done by each algorithm.
+- **Objective:** Our goal is to collect, clean, and analyze historical stock price data to gain insights into the performance and trends of Tesla and GameStop Corp stocks.
 
-# Contributing
-Contributions to this guided machine learning projects repository are welcome! 
+- **Tools:** We'll use Python programming language along with libraries such as BeautifulSoup and pandas for web scraping, data manipulation, and analysis.
 
-If you have your own guided machine-learning projects that you would like to share, feel free to submit a pull request. 
+## Project Structure
 
-Contributions could include additional projects, improvements to existing projects, or bug fixes.
+- **notebooks:** Jupyter notebooks containing the code and step-by-step explanations of the web scraping process, data cleaning, and analysis.
+  
+- **data:** Processed data files (e.g., CSV) containing the scraped financial data for Tesla and GameStop Corp.
+  
+- **scripts:** Python scripts for web scraping, data cleaning, and analysis tasks.
+  
+- **README.md:** You're currently reading the README file providing an overview of the project.
 
+## Examples
 
+- **Tesla (TSLA):** Analyze historical stock price data for Tesla to identify trends, patterns, and potential insights into the company's performance.
+- **GameStop Corp (GME):** Perform a similar analysis for GameStop Corp stock to understand its historical price movements and any notable events affecting its performance.
+
+## Conclusion
+
+This web scraping project, guided by IBM, provides a practical example of how to collect and analyze historical stock financial data using web scraping techniques. By focusing on Tesla and GameStop Corp stocks, we aim to gain insights into their historical performance and trends.
+
+Happy scraping and analyzing!
+
+---
+
+Feel free to customize this README template with additional details or sections as needed for your project.
