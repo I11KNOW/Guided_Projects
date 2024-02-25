@@ -1,7 +1,7 @@
 # My Guided Machine Learning Projects
 Welcome to my guided machine learning projects repository! 
 
-This repository houses a collection of guided machine-learning projects that I have developed. 
+This repository houses a collection of guided machine-learning projects that I have developed guided by great instructors I appreciate. 
 
 Guided machine learning simplifies the process of building and deploying machine learning models by leveraging pre-built models, libraries, and frameworks.
 
@@ -22,9 +22,8 @@ Code Snippets: Reusable code snippets for common tasks in guided machine learnin
 Documentation: Detailed documentation for each project, including setup instructions and usage guidelines.
 
 # Usage
-Each project directory contains its own README.md file with instructions on how to run the project and any additional setup required. 
 
-Follow the instructions provided in the project README.md to get started with each project.
+Follow the instructions provided in the project READ MY README.md to get started with each project.
 
 # Contributing
 Contributions to this guided machine learning projects repository are welcome! 
@@ -33,4 +32,4 @@ If you have your own guided machine-learning projects that you would like to sha
 
 Contributions could include additional projects, improvements to existing projects, or bug fixes.
 
-Please refer to the CONTRIBUTING.md file for contribution guidelines.
+
