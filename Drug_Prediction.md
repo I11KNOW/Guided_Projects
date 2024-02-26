@@ -1,6 +1,6 @@
-# Drug Prediction for Patients using Logistic Regression
+# Drug Prediction for Patients Using Logistic Regression
 
-Welcome to the Drug Prediction project! In this beginner-level project, we'll explore how to predict suitable drugs for patients using the Logistic Regression algorithm.
+Welcome to the Drug Prediction project! In this beginner-level project, we'll explore how to predict suitable patient drugs using the Logistic Regression algorithm.
 
 ## Introduction
 
@@ -8,20 +8,18 @@ Predicting suitable drugs for patients is a common task in healthcare, where the
 
 ## Objective
 
-The objective of this project is to build a machine learning model using Logistic Regression to predict suitable drugs for patients based on their characteristics and medical history. We'll use a small sample of patient data containing features such as age, sex, blood pressure, and cholesterol levels to train and evaluate the model.
-
-## Algorithm Used
-
-- **Logistic Regression:** Logistic Regression is a classification algorithm that predicts the probability of a binary outcome (e.g., suitable drug or not) based on one or more independent variables (e.g., patient characteristics).
+This project aims to build a machine-learning model using Logistic Regression to predict suitable drugs for patients based on their characteristics and medical history. We'll use a small sample of patient data containing features such as age, sex, blood pressure, and cholesterol levels to train and evaluate the model.
 
 ## Project Structure
 
-- **data:** This directory contains the dataset used in the project.
-- **notebooks:** Jupyter notebooks are provided with step-by-step explanations of data preprocessing, model training, and evaluation using Logistic Regression.
-- **scripts:** Python scripts for data preprocessing, model training, and evaluation.
-- **README.md:** You're currently reading the README file that provides an overview of the project.
+Data: This directory contains the dataset used in the project.
 
+Notebooks: Jupyter notebooks are provided with step-by-step explanations of data preprocessing, model training, and 
+evaluation using Logistic Regression.
 
+Scripts: Python scripts for data preprocessing, model training, and evaluation.
+
+README.md: You're currently reading the README file that provides an overview of the project.
 
 ## Conclusion
 
@@ -29,6 +27,3 @@ This beginner-level project demonstrates the use of Logistic Regression for pred
 
 Happy predicting!
 
----
-
-Feel free to customize this README template with additional details or sections as needed for your project.
